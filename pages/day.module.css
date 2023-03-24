@@ -1,0 +1,21 @@
+.day,
+.frame2 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+.frame2 {
+  align-self: stretch;
+  background: linear-gradient(18.04deg, #4bb5f1, #2f2cbc);
+  padding: 23px 55px 203px 21px;
+  align-items: flex-start;
+  justify-content: flex-end;
+  gap: 46px;
+}
+.day {
+  position: relative;
+  background-color: var(--label-color-dark-primary);
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+}

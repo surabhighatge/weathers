@@ -1,0 +1,87 @@
+.b {
+  position: absolute;
+  width: 99.73%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.clear {
+  left: 0;
+}
+.clear,
+.mayXx20xx,
+.sanFrancisco {
+  position: absolute;
+  width: 99.73%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.sanFrancisco {
+  left: 0;
+  height: 13.31%;
+  top: 0;
+  font-family: var(--font-calistoga);
+}
+.clear {
+  height: 11.9%;
+  top: 16.71%;
+  font-size: var(--font-size-5xl);
+}
+.b {
+  height: 17.85%;
+  top: 63.74%;
+  left: 0.27%;
+  font-size: var(--font-size-53xl);
+}
+.mayXx20xx {
+  left: 0.27%;
+  height: 15.01%;
+  top: 84.99%;
+  font-size: var(--font-size-3xl);
+}
+.sun1Icon {
+  position: absolute;
+  height: 28.33%;
+  width: 26.6%;
+  top: 32.01%;
+  right: 36.97%;
+  bottom: 39.66%;
+  left: 36.44%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  display: none;
+}
+.component1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.crescentMoon1Icon {
+  position: absolute;
+  height: 25.5%;
+  width: 23.94%;
+  top: 31.73%;
+  right: 38.03%;
+  bottom: 42.78%;
+  left: 38.03%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.component3 {
+  position: absolute;
+  top: 15px;
+  left: 47px;
+  width: 376px;
+  height: 353px;
+  text-align: center;
+  font-size: var(--font-size-17xl);
+  color: var(--label-color-dark-primary);
+  font-family: var(--font-roboto);
+}

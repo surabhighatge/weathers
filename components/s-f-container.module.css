@@ -1,0 +1,62 @@
+.clear,
+.sanFrancisco {
+  position: absolute;
+  width: 99.73%;
+  left: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.sanFrancisco {
+  height: 13.31%;
+  top: 0;
+  font-family: var(--font-calistoga);
+}
+.clear {
+  height: 11.9%;
+  top: 16.71%;
+  font-size: var(--font-size-5xl);
+}
+.b,
+.mayXx20xx {
+  width: 99.73%;
+  left: 0.27%;
+}
+.b,
+.mayXx20xx,
+.sun1Icon {
+  position: absolute;
+}
+.b {
+  height: 17.85%;
+  top: 63.74%;
+  font-size: var(--font-size-53xl);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.mayXx20xx {
+  height: 15.01%;
+  top: 84.99%;
+}
+.sun1Icon {
+  height: 28.33%;
+  width: 26.6%;
+  top: 32.01%;
+  right: 36.97%;
+  bottom: 39.66%;
+  left: 36.44%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.component1 {
+  align-self: stretch;
+  position: relative;
+  height: 353px;
+  flex-shrink: 0;
+  text-align: center;
+  font-size: var(--font-size-17xl);
+  color: var(--label-color-dark-primary);
+  font-family: var(--font-roboto);
+}
